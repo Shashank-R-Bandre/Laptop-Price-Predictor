@@ -1,0 +1,4 @@
+numpy==1.24.3
+pandas=pip install numpy==1.23.5=1.5.3
+scikit_learn==1.2.2
+streamlit==1.23.1
