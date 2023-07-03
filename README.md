@@ -18,7 +18,7 @@
 
 ### STEPS :- 
 
-* Data Preprocessing
+* Data Cleaning
 * Exploratory Data Analysis
 * Feature Engineering
 * Model Development
