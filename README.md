@@ -55,10 +55,10 @@
 ### IMPORTANT POINTS :-
 
 * Data Analysis Report & ML Model Performance Report is provided in the Reports folder.
-* R2 Score and MAE is calculated for all algorithms. 
+* **R2 Score** and **MAE** is calculated for all algorithms. 
 * R2 Score for Random Forest is highest.
-* Pickle library is used for exporting the model.
-* Streamlit is used for developing the web application.
+* **Pickle** library is used for exporting the model.
+* **Streamlit** is used for developing the web application.
 
 ## VIDEO :- 
 
