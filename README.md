@@ -60,7 +60,7 @@
 * Pickle library is used for exporting the model.
 * Streamlit is used for developing the web application.
 
-# Video
+## Video
 
 https://github.com/Shashank-R-Bandre/Laptop-Price-Predictor/assets/137071327/f90eb2c8-4cf7-4291-8e89-e16eb872e527 
 
